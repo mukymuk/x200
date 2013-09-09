@@ -3,9 +3,10 @@
 #include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 #include <stdbool.h>
+#include <stdint.h>
 #include "x200.h"
+
 
 static modbus_t * s_p_modbus;
 
